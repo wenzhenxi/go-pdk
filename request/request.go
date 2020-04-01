@@ -6,7 +6,7 @@ A set of functions to retrieve information about the incoming requests made by c
 package request
 
 import (
-	"github.com/Kong/go-pdk/bridge"
+	"github.com/sunmi-OS/go-pdk/bridge"
 )
 
 // Holds this module's functions.  Accessible as `kong.Request`

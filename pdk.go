@@ -16,17 +16,17 @@ For example, to get the client's IP address, you'd use `kong.Client.GetIp()`.
 package pdk
 
 import (
-	"github.com/Kong/go-pdk/client"
-	"github.com/Kong/go-pdk/ip"
-	"github.com/Kong/go-pdk/log"
-	"github.com/Kong/go-pdk/nginx"
-	"github.com/Kong/go-pdk/node"
-	"github.com/Kong/go-pdk/request"
-	"github.com/Kong/go-pdk/response"
-	"github.com/Kong/go-pdk/router"
-	"github.com/Kong/go-pdk/service"
-	service_request "github.com/Kong/go-pdk/service/request"
-	service_response "github.com/Kong/go-pdk/service/response"
+	"github.com/sunmi-OS/go-pdk/client"
+	"github.com/sunmi-OS/go-pdk/ip"
+	"github.com/sunmi-OS/go-pdk/log"
+	"github.com/sunmi-OS/go-pdk/nginx"
+	"github.com/sunmi-OS/go-pdk/node"
+	"github.com/sunmi-OS/go-pdk/request"
+	"github.com/sunmi-OS/go-pdk/response"
+	"github.com/sunmi-OS/go-pdk/router"
+	"github.com/sunmi-OS/go-pdk/service"
+	service_request "github.com/sunmi-OS/go-pdk/service/request"
+	service_response "github.com/sunmi-OS/go-pdk/service/response"
 )
 
 // PDK go pdk module

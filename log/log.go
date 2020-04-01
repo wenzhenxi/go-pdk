@@ -4,7 +4,7 @@ Write to log file.
 package log
 
 import (
-	"github.com/Kong/go-pdk/bridge"
+	"github.com/sunmi-OS/go-pdk/bridge"
 )
 
 // Holds this module's functions.  Accessible as `kong.Log`

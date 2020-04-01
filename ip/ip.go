@@ -13,7 +13,7 @@ See https://docs.konghq.com/latest/configuration/#trusted_ips
 package ip
 
 import (
-	"github.com/Kong/go-pdk/bridge"
+	"github.com/sunmi-OS/go-pdk/bridge"
 	// 	"strconv"
 )
 

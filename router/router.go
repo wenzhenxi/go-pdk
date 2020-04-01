@@ -6,8 +6,8 @@ A set of functions to access the routing properties of the request.
 package router
 
 import (
-	"github.com/Kong/go-pdk/bridge"
-	"github.com/Kong/go-pdk/entities"
+	"github.com/sunmi-OS/go-pdk/bridge"
+	"github.com/sunmi-OS/go-pdk/entities"
 )
 
 // Holds this module's functions.  Accessible as `kong.Router`

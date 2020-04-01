@@ -3,7 +3,7 @@ package nginx
 import (
 	"testing"
 
-	"github.com/Kong/go-pdk/bridge"
+	"github.com/sunmi-OS/go-pdk/bridge"
 	"github.com/stretchr/testify/assert"
 )
 

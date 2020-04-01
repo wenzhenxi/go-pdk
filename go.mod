@@ -1,4 +1,4 @@
-module github.com/Kong/go-pdk
+module github.com/sunmi-OS/go-pdk
 
 go 1.13
 

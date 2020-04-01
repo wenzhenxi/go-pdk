@@ -4,7 +4,7 @@ Manipulation of the request to the Service.
 package request
 
 import (
-	"github.com/Kong/go-pdk/bridge"
+	"github.com/sunmi-OS/go-pdk/bridge"
 )
 
 // Holds this module's functions.  Accessible as `kong.ServiceRequest`

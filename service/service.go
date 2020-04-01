@@ -9,7 +9,7 @@ or choosing a given Upstream entity for load-balancing and healthchecking.
 package service
 
 import (
-	"github.com/Kong/go-pdk/bridge"
+	"github.com/sunmi-OS/go-pdk/bridge"
 )
 
 // Holds this module's functions.  Accessible as `kong.Service`
