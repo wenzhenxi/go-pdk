@@ -1,4 +1,4 @@
-module github.com/sunmi-OS/go-pdk
+module github.com/wenzhenxi/go-pdk
 
 go 1.13
 
